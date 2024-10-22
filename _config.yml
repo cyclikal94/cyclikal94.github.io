@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cyclikal
+title: cyclikal.dev
 email: cyclikal@cyclikal.dev
-description: >- # this means to ignore newlines until "baseurl:"
-  Cyclikal.dev says Hello World!
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Cyclikal.dev says Hello World!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cyclikal.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -35,10 +35,11 @@ minima:
   skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/cyclikal94" }
+    - { platform: rss,  user_url: "/feed.xml" }
 
 header_pages:
   - blog.md
-  - about.md
+#  - about.md
 
 author:
   name: Cyclikal
