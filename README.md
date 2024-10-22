@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/cyclikal94">
+  <a href="https://cyclikal.dev/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyclikal94/cyclikal94/refs/heads/main/infinite-spinner-light.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyclikal94/cyclikal94/refs/heads/main/infinite-spinner-dark.svg">
@@ -10,6 +10,6 @@
     cyclikal.dev
   </h1>
   <p>
-    Hi 👋 you found the <a href="https://github.com/cyclikal94">cyclikal.dev</a> repo.
+    Hi 👋 you found the <a href="https://cyclikal.dev/">cyclikal.dev</a> repo.
   </p>
 </div>
