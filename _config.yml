@@ -41,6 +41,10 @@ header_pages:
   - blog.md
 #  - about.md
 
+external_links:
+  - title: "Godot Matrix SDK"
+    url: "/godot-matrix-sdk/"
+
 author:
   name: Cyclikal
   email: "cyclikal@cyclikal.dev"

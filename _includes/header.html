@@ -27,6 +27,9 @@
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
             {%- endfor -%}
+            {% for link in site.external_links %}
+              <a class="page-link" href="{{ link.url }}" {% if link.url contains "http" %}target="_blank"{% endif %}>{{ link.title }}</a>
+            {% endfor %}
           </div>
         </nav>
       {%- endif -%}
