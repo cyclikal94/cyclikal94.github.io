@@ -29,7 +29,7 @@ github_username:  cyclikal94
 
 # Build settings
 # theme: minima
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@6b9b78dad3e5c9f733c901e10287465735b36169
 
 minima:
   skin: dark
@@ -39,11 +39,12 @@ minima:
 
 header_pages:
   - blog.md
-#  - about.md
 
 external_links:
   - title: "Godot Matrix SDK"
     url: "/godot-matrix-sdk/"
+  - title: "Godot Matrix RTC"
+    url: "/godot-matrix-rtc/"
 
 author:
   name: Cyclikal

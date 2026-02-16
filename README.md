@@ -12,4 +12,7 @@
   <p>
     Hi 👋 you found the <a href="https://cyclikal.dev/">cyclikal.dev</a> repo.
   </p>
+  <p>
+    Sometimes I build things!
+  </p>
 </div>
