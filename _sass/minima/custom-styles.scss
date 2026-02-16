@@ -18,7 +18,7 @@
 .site-nav .projects-menu {
     display: none;
     position: absolute;
-    left: 100%;
+    right: 0;
     top: calc(100% + 8px);
     width: max-content;
     background-color: $background-color;
