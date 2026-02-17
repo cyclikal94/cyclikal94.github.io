@@ -43,12 +43,12 @@ header_pages:
 external_links:
   - title: "OctoPing"
     url: "/octoping/"
-  - title: "ESS Community Extras"
-    url: "/ess-community-extras/"
   - title: "Godot Matrix RTC"
     url: "/godot-matrix-rtc/"
   - title: "Godot Matrix SDK"
     url: "/godot-matrix-sdk/"
+  - title: "ESS Community Extras"
+    url: "/ess-community-extras/"
 
 author:
   name: Cyclikal
