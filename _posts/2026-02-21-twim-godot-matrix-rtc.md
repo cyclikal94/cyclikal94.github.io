@@ -21,7 +21,10 @@ This week I finished [`godot-matrix-rtc`](https://github.com/cyclikal94/godot-ma
 
 Simply install the plugin and you'll have everything you need to make the next Flappy Bird (but in Matrix!).
 
-![Flappy Royale](/assets/posts/2026-02-21-twim-godot-matrix-rtc-flappy.mp4)
+<video controls preload="metadata" playsinline style="width: 100%; height: auto;">
+  <source src="/assets/posts/2026-02-21-twim-godot-matrix-rtc-flappy.mp4" type="video/mp4">
+  Your browser does not support HTML video. <a href="/assets/posts/2026-02-21-twim-godot-matrix-rtc-flappy.mp4">Download the video</a>.
+</video>
 
 Following the FOSDEM'26 [MatrixRTC x Godot - A Battle Royale](https://fosdem.org/2026/schedule/event/UW9GKA-matrixrtc-godot-battle-royale/) talk, I initially started this project as a UI update to [@toger5](https://github.com/toger5)'s [Godot-MatrixRTC-Keyboard-Kart](https://github.com/toger5/Godot-MatrixRTC-Keyboard-Kart) project, aka FloorIt Ipsum.
 
@@ -35,7 +38,10 @@ The plugin adds a `GodotMatrixRTC` node to Godot which can be used to send/recei
 
 Once enabled, the plugin will set up a specific Export Preset and an `EditorExportPlugin` automatically includes the pre-requisite Element Call SDK `dist` so all you need to do is export your project, then deploy somewhere. No cloning or `yarn build:sdk` required!
 
-![Godot Matrix RTC Install](/assets/posts/2026-02-21-twim-godot-matrix-rtc-install.mp4)
+<video controls preload="metadata" playsinline style="width: 100%; height: auto;">
+  <source src="/assets/posts/2026-02-21-twim-godot-matrix-rtc-install.mp4" type="video/mp4">
+  Your browser does not support HTML video. <a href="/assets/posts/2026-02-21-twim-godot-matrix-rtc-install.mp4">Download the video</a>.
+</video>
 
 Setup in 30 seconds... Let's go! 🏁
 
