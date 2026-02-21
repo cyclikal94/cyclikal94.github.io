@@ -1,13 +1,17 @@
 ---
 layout: post
 title:  "This Week in Matrix (TWIM) Godot Matrix RTC"
-date:   2026-02-21 12:30:00 +0700
+date:   2026-02-17 23:54:00 +0700
 categories: blog
 ---
 
-After a nudge, on Tuesday I posted in the [#twim:matrix.org](https://matrix.to/#/#twim:matrix.org) room an update about Godot Matrix RTC. The TWIM for [this week](https://matrix.org/blog/2026/02/20/this-week-in-matrix-2026-02-20/#dept-of-interesting-projects-satellite-orbital) is now live, it's kinda weird to see an entry I made on there.
+**Update**: The TWIM for [this week](https://matrix.org/blog/2026/02/20/this-week-in-matrix-2026-02-20/#dept-of-interesting-projects-satellite-orbital) is now live, it's kinda weird to see an entry I made on there - you can check it out at [this link](https://matrix.org/blog/2026/02/20/this-week-in-matrix-2026-02-20/#godot-matrix-rtc).
 
-Anyway, for prosperity, you can read the entry (generously listed under `Dept of Interesting Projects`) at [this link](https://matrix.org/blog/2026/02/20/this-week-in-matrix-2026-02-20/#godot-matrix-rtc) or below:
+---
+
+After a nudge, I've just posted in the [#twim:matrix.org](https://matrix.to/#/#twim:matrix.org) room an update about Godot Matrix RTC! 🎉
+
+For prosperity, you can read the entry (which is generously being listed under `Dept of Interesting Projects`) below:
 
 ### Godot Matrix RTC
 
