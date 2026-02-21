@@ -6,3 +6,5 @@ layout: home
 title: Blog
 permalink: /blog/
 ---
+
+This blog is for me - I'm trying something. If your not me and reading this... that's a bit weird but 🤷
