@@ -47,8 +47,8 @@ external_links:
     url: "/godot-matrix-rtc/"
   - title: "Godot Matrix SDK"
     url: "/godot-matrix-sdk/"
-  - title: "ESS Community Extras"
-    url: "/ess-community-extras/"
+  - title: "Matrix Helm Charts"
+    url: "/matrix-helm-charts/"
 
 author:
   name: Cyclikal
