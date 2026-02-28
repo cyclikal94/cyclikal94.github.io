@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Matrix Workation Thailand '26"
+title:  "Matrix Workation Thailand"
 date:   2026-02-23 12:48:00 +0700
 categories: blog
 ---
