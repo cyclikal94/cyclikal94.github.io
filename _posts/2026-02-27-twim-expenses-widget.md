@@ -5,6 +5,10 @@ date:   2026-02-27 08:40:00 +0000
 categories: blog
 ---
 
+**Update 2026-02-27**: The TWIM for [this week](https://matrix.org/blog/2026/02/27/this-week-in-matrix-2026-02-27/) is now live, you can check out this update there via [this link](https://matrix.org/blog/2026/02/27/this-week-in-matrix-2026-02-27/#expenses-widget).
+
+---
+
 I'm making a habit of writing TWIM posts perhaps, it's now 2 weeks in a row ... and perhaps I'll have two things to share this week. We'll see how the work on [Matrix Helm Charts](https://github.com/cyclikal94/matrix-helm-charts) shakes out.
 
 This week the work I did on a UI update to the [matrix-community/expenses-matrix-widget](https://codeberg.org/matrix-community/expenses-matrix-widget), alongside better link parsing and CI is the subject of the post - including a fancy video to demonstrate the update and general functionality of the widget.
