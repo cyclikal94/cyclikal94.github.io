@@ -15,7 +15,7 @@ For prosperity, you can read the entry (which is generously being listed under `
 
 ### Godot Matrix RTC
 
-> _**tl:dr** Try out a new Godot Plugin that makes in-room multiplayer gaming / collaboration via widgets (by using MatrixRTC) easy!_
+> _**tl;dr** Try out a new Godot Plugin that makes in-room multiplayer gaming / collaboration via widgets (by using MatrixRTC) easy!_
 > 
 > **Interested?** Visit the repo at [cyclikal94/godot-matrix-rtc](https://github.com/cyclikal94/godot-matrix-rtc), install via the [Godot Asset Library](https://godotengine.org/asset-library/asset/4788) and if you want some help, you can chat about MatrixRTC over in #webrtc:matrix.org.
 
