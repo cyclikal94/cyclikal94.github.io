@@ -1,0 +1,12 @@
+{
+  "m.homeserver": {
+    "base_url": "https://matrix.cyclikal.dev"
+  },
+  "org.matrix.msc4143.rtc_foci": [
+    {
+      "livekit_service_url": "https://mrtc.cyclikal.dev",
+      "type": "livekit"
+    }
+  ]
+}
+
